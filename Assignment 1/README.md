@@ -18,9 +18,10 @@ The work is implemented in a **Jupyter Notebook** for clarity and step-by-step e
 
 ## Project Structure
 
-Assignment 1/
-│── Assignment1_Simran Sinha.ipynb
-│── README.md
+📦 Assignment 1/
+│
+├── 📄 Assignment1_Simran Sinha.ipynb                   
+└── 📘 README.md                                         # Project documentation
 
 ---
 
