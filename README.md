@@ -1,7 +1,6 @@
 # Generative_AI
 
 ---
----
 
 # Assignment 1 — Prompt Roles & API Basics
 
@@ -24,6 +23,6 @@ The notebook focuses on understanding how **System, User, and Assistant** roles 
 - Introductory OpenAI API usage
 
 ---
----
+
 
 
