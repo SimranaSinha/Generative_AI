@@ -8,13 +8,11 @@ This assignment demonstrates the fundamentals of **role-based prompting** using 
 
 The notebook focuses on understanding how **System, User, and Assistant** roles influence model behavior and response quality.
 
----
 
 ## Contents
 
 - `Assignment1_Simran Sinha.ipynb` — Jupyter notebook with prompt roles and API execution
 
----
 
 ## Key Concepts
 
