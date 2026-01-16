@@ -1,4 +1,4 @@
-# Assignment 2: ExcelGPT – AI_Reply Function
+# Lab 1: ExcelGPT – AI_Reply Function
 
 ## Overview
 
