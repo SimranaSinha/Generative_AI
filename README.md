@@ -39,7 +39,7 @@ The assignment highlights how structured prompts and inputs can be used to autom
 
 ---
 
-# Lab 2 - Prompting Strategies in Practice
+# Lab 2 - Prompting Strategies
 
 This lab demonstrates how different prompting strategies influence the reasoning quality, consistency, and accuracy of large language model outputs. The notebook focuses on applying structured prompts to the same problem and analyzing how model behavior changes based on prompt design and temperature settings.
 
