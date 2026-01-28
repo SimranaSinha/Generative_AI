@@ -37,3 +37,20 @@ The assignment highlights how structured prompts and inputs can be used to autom
 - AI-assisted data analysis and transformation
 - Secure API handling and best practices
 
+---
+
+# Lab 2 — Prompting Strategies in Practice
+
+This lab demonstrates how different prompting strategies influence the reasoning quality, consistency, and accuracy of large language model outputs. The notebook focuses on applying structured prompts to the same problem and analyzing how model behavior changes based on prompt design and temperature settings.
+
+The lab emphasizes practical experimentation with prompting techniques rather than application development.
+
+## Contents
+
+- ` Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb ` — Jupyter notebook exploring multiple prompting strategies and response analysis
+
+## Key Concepts
+- Prompt engineering techniques
+- Zero-shot and few-shot prompting
+- Chain-of-thought reasoning
+- Self-consistency and temperature effects
