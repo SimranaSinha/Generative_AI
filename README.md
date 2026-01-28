@@ -58,4 +58,4 @@ The lab emphasizes practical experimentation with prompting techniques rather th
 ---
 
 ## Notes
-This lab is intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
+All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
