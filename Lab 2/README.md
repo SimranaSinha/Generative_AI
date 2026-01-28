@@ -1,4 +1,4 @@
-# Lab 2: Prompting Strategies in Practice
+# Lab 2: Prompting Strategies 
 
 ## Overview
 
