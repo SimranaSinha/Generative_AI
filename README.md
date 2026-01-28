@@ -2,7 +2,7 @@
 
 ---
 
-# Assignment 1 — Prompt Roles & API Basics
+# Assignment 1 - Prompt Roles & API Basics
 
 This assignment demonstrates the fundamentals of **role-based prompting** using a chat model and a basic **OpenAI API call**.
 
@@ -22,7 +22,7 @@ The notebook focuses on understanding how **System, User, and Assistant** roles 
 
 ---
 
-# Lab 1 — ExcelGPT & AI_Reply Function
+# Lab 1 - ExcelGPT & AI_Reply Function
 
 This assignment demonstrates the integration of generative AI into Microsoft Excel using a custom AI_Reply function powered by the OpenAI API. The workbook focuses on applying prompt-driven AI to common business and analytics tasks directly within a spreadsheet environment.
 
@@ -39,7 +39,7 @@ The assignment highlights how structured prompts and inputs can be used to autom
 
 ---
 
-# Lab 2 — Prompting Strategies in Practice
+# Lab 2 - Prompting Strategies in Practice
 
 This lab demonstrates how different prompting strategies influence the reasoning quality, consistency, and accuracy of large language model outputs. The notebook focuses on applying structured prompts to the same problem and analyzing how model behavior changes based on prompt design and temperature settings.
 
