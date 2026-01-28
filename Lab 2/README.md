@@ -1,6 +1,6 @@
 # Lab 2: Prompting Strategies in Practice
 
-### Overview
+## Overview
 
 This lab focuses on exploring and comparing different prompting strategies used with large language models to improve reasoning quality, consistency, and correctness. The goal is to understand how prompt structure and guidance influence model outputs across the same problem.
 
@@ -8,7 +8,7 @@ Rather than building an application, this lab emphasizes prompt experimentation,
 
 ---
 
-### Objectives
+## Objectives
 
 * Experiment with multiple prompting strategies on the same task
 * Understand how reasoning guidance affects model responses
@@ -17,7 +17,7 @@ Rather than building an application, this lab emphasizes prompt experimentation,
 
 ---
 
-### Project Structure
+## Project Structure
 
 ```
 📦 Lab 2/
@@ -29,7 +29,7 @@ Rather than building an application, this lab emphasizes prompt experimentation,
 
 ---
 
-### Tools & Technologies
+## Tools & Technologies
 
 * Jupyter Notebook
 * Python
@@ -38,7 +38,7 @@ Rather than building an application, this lab emphasizes prompt experimentation,
 
 ---
 
-### Prompting Strategies Covered
+## Prompting Strategies Covered
 
 The notebook demonstrates multiple prompting approaches applied to the same reasoning problem.
 
@@ -59,7 +59,7 @@ Combines reasoning steps with intermediate actions to improve structured problem
 
 ---
 
-### Experiment Design
+## Experiment Design
 
 * The same logical problem is tested across different prompting strategies
 * Model temperature values are varied to observe changes in creativity and determinism
@@ -67,7 +67,7 @@ Combines reasoning steps with intermediate actions to improve structured problem
 
 ---
 
-### Observations & Analysis
+## Observations & Analysis
 
 **Key observations include:**
 
@@ -78,7 +78,7 @@ Combines reasoning steps with intermediate actions to improve structured problem
 
 ---
 
-### Learning Outcomes
+## Learning Outcomes
 
 Through this lab, I gained practical experience with:
 
@@ -89,7 +89,7 @@ Through this lab, I gained practical experience with:
 
 ---
 
-### Notes
+## Notes
 
 This lab is intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
 
