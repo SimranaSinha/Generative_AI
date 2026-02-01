@@ -1,0 +1,14 @@
+Week,Role,Inventory,Incoming Shipping,Week,Role,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,Manual
+1,Retailer,10,"[(8, 2)]",1,Retailer,8.0,13.0,2.0,0.0,2.0,0.0,2,Simran ,Manual
+2,Retailer,2,"[(8, 3)]",2,Retailer,8.0,11.0,0.0,1.0,0.0,2.0,4,Simran ,Manual
+3,Retailer,0,"[(8, 4)]",3,Retailer,8.0,13.0,0.0,5.0,0.0,10.0,14,Simran ,Manual
+4,Retailer,0,"[(8, 5)]",4,Retailer,8.0,13.0,0.0,5.0,0.0,10.0,24,Simran ,Manual
+5,Retailer,0,"[(8, 6)]",5,Retailer,8.0,13.0,0.0,5.0,0.0,10.0,34,Simran ,Manual
+6,Retailer,0,"[(8, 7)]",6,Retailer,8.0,13.0,0.0,5.0,0.0,10.0,44,Simran ,Manual
+7,Retailer,0,"[(8, 8)]",7,Retailer,8.0,9.0,0.0,1.0,0.0,2.0,46,Simran ,Manual
+8,Retailer,0,"[(8, 9)]",8,Retailer,8.0,9.0,0.0,1.0,0.0,2.0,48,Simran ,Manual
+9,Retailer,0,"[(8, 10)]",9,Retailer,8.0,13.0,0.0,5.0,0.0,10.0,58,Simran ,Manual
+10,Retailer,0,"[(8, 11)]",10,Retailer,8.0,13.0,0.0,5.0,0.0,10.0,68,Simran ,Manual
+11,Retailer,0,"[(8, 12)]",11,Retailer,8.0,12.0,0.0,4.0,0.0,8.0,76,Simran ,Manual
+12,Retailer,0,"[(8, 13)]",12,Retailer,8.0,14.0,0.0,6.0,0.0,12.0,88,Simran ,Manual
