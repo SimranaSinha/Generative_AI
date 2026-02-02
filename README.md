@@ -57,5 +57,26 @@ The lab emphasizes practical experimentation with prompting techniques rather th
 
 ---
 
+## Lab 3 – GenAI-Assisted Decision Making in the Beer Game
+
+This lab explores the use of Generative AI as a decision-support tool in the Beer Game supply chain simulation. The focus is on understanding how prompt design and human–AI collaboration influence ordering decisions, cost behavior, and stability over multiple simulation runs.
+
+Rather than modifying the simulation logic, the lab emphasizes prompt experimentation, comparative analysis, and evaluation of GenAI-assisted versus manual decision-making.
+
+### Contents
+- ` Lab_3_GenAI_Assisted_Decision_Making_Beer_Game_Simran.ipynb ` — Jupyter notebook exploring GenAI-assisted decision making and prompt-based order planning in the Beer Game
+- Part 1 — Prompt engineering experiments using three strategies (Baseline, Cost-Aware Conservative, Risk-Constrained Data-Driven)
+- Part 2 — Manual vs. GenAI-assisted order planning comparison
+- Reports — PDF summaries of findings for Part 1 and Part 2
+- CSV / Excel files — Combined experimental results
+
+### Key Concepts
+- Prompt engineering for operational decision-making
+- GenAI as a decision-support system
+- Cost and variability analysis in supply chains
+- Human–AI collaboration in multi-period environments
+
+---
+
 ## Notes
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
