@@ -64,7 +64,7 @@ This lab explores the use of Generative AI as a decision-support tool in the Bee
 Rather than modifying the simulation logic, the lab emphasizes prompt experimentation, comparative analysis, and evaluation of GenAI-assisted versus manual decision-making.
 
 ### Contents
-- ` Lab_3_GenAI_Assisted_Decision_Making_Beer_Game_Simran.ipynb ` — Jupyter notebook exploring GenAI-assisted decision making and prompt-based order planning in the Beer Game
+- ` M4_Lab2_GenAI_BeerGame_V1.ipynb ` — Jupyter notebook exploring GenAI-assisted decision making and prompt-based order planning in the Beer Game
 - Part 1 — Prompt engineering experiments using three strategies (Baseline, Cost-Aware Conservative, Risk-Constrained Data-Driven)
 - Part 2 — Manual vs. GenAI-assisted order planning comparison
 - Reports — PDF summaries of findings for Part 1 and Part 2
