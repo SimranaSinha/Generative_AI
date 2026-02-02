@@ -58,6 +58,9 @@ Rather than modifying the underlying simulation logic, the lab emphasizes prompt
 │   └── 📄 M4_Lab2_GenAI_BeerGame_V1.ipynb
 │       # Beer Game simulation notebook
 │
+├── 📂 M4_Lab2_GenAI_BeerGame_V1.ipynb
+│     # Python file 
+│
 └── 📘 README.md
     # Project documentation
 ```
