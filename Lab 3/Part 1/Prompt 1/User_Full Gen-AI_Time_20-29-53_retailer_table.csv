@@ -1,0 +1,12 @@
+Week,Role,Inventory,Incoming Shipping,Week,Role,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,User,Full Gen-AI
+1,Retailer,10,"[(10, 2)]",1,Retailer,10.0,9.0,6.0,0.0,6.0,0.0,6,User,Full Gen-AI
+2,Retailer,6,"[(2, 3)]",2,Retailer,2.0,11.0,5.0,0.0,5.0,0.0,11,User,Full Gen-AI
+3,Retailer,5,"[(2, 4)]",3,Retailer,2.0,14.0,0.0,7.0,0.0,14.0,25,User,Full Gen-AI
+4,Retailer,0,"[(2, 5)]",4,Retailer,2.0,14.0,0.0,12.0,0.0,24.0,49,User,Full Gen-AI
+5,Retailer,0,"[(1, 6)]",5,Retailer,1.0,12.0,0.0,10.0,0.0,20.0,69,User,Full Gen-AI
+6,Retailer,0,"[(2, 7)]",6,Retailer,2.0,13.0,0.0,12.0,0.0,24.0,93,User,Full Gen-AI
+7,Retailer,0,"[(3, 8)]",7,Retailer,3.0,13.0,0.0,11.0,0.0,22.0,115,User,Full Gen-AI
+8,Retailer,0,"[(2, 9)]",8,Retailer,2.0,12.0,0.0,9.0,0.0,18.0,133,User,Full Gen-AI
+9,Retailer,0,"[(3, 10)]",9,Retailer,3.0,9.0,0.0,7.0,0.0,14.0,147,User,Full Gen-AI
+10,Retailer,0,"[(2, 11)]",10,Retailer,2.0,13.0,0.0,10.0,0.0,20.0,167,User,Full Gen-AI
