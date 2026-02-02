@@ -78,5 +78,24 @@ Rather than modifying the simulation logic, the lab emphasizes prompt experiment
 
 ---
 
+## Discussion 1 – GenAI_Triage
+
+This discussion examines the use of Generative AI models for medical triage support, focusing on how prompt design and model selection influence reasoning quality, consistency, and safety in healthcare decision-making.
+
+The notebook explores AI-assisted triage as a decision-support tool, emphasizing human-in-the-loop workflows rather than autonomous clinical decisions.
+
+### Contents
+- ` Discussion_1_GenAI_Triage.ipynb` — Jupyter notebook analyzing GenAI-assisted triage, prompt variations, and model behavior
+- ` Gemini and OpenAI.png `
+- ` Human-in-the-Loop Triage Integration.png `   
+
+### Key Concepts
+AI-assisted medical triage
+Prompt engineering for clinical reasoning
+Model comparison and response consistency
+Human-in-the-loop decision support
+
+---
+
 ## Notes
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
