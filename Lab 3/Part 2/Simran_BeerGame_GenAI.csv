@@ -1,0 +1,175 @@
+,,,,Summary,,,,,,,,,,
+,,,,,,,,,,,,,,
+Strategy,Number of Iterations,Average Total Cost,Minimum Total Cost,Maximum Total Cost,,,,,,,,,,
+Manual,5,86.8,36,137,,,,,,,,,,
+GenAI-Assisted,5,102.4,71,133,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Gen AI-Assisted 1,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,GenAI-Assisted
+1,Retailer,10,"[(10, 2)]",1,Retailer,10,13,2,0,2,0,2,Simran ,GenAI-Assisted
+2,Retailer,2,"[(5, 3)]",2,Retailer,5,9,3,0,3,0,5,Simran ,GenAI-Assisted
+3,Retailer,3,"[(13, 4)]",3,Retailer,13,11,0,3,0,6,11,Simran ,GenAI-Assisted
+4,Retailer,0,"[(11, 5)]",4,Retailer,11,13,0,0,0,0,11,Simran ,GenAI-Assisted
+5,Retailer,0,"[(3, 6)]",5,Retailer,3,11,0,0,0,0,11,Simran ,GenAI-Assisted
+6,Retailer,0,"[(14, 7)]",6,Retailer,14,14,0,11,0,22,33,Simran ,GenAI-Assisted
+7,Retailer,0,"[(8, 8)]",7,Retailer,8,10,4,0,4,0,37,Simran ,GenAI-Assisted
+8,Retailer,4,"[(8, 9)]",8,Retailer,8,10,2,0,2,0,39,Simran ,GenAI-Assisted
+9,Retailer,2,"[(18, 10)]",9,Retailer,18,11,0,1,0,2,41,Simran ,GenAI-Assisted
+10,Retailer,0,"[(15, 11)]",10,Retailer,15,10,8,0,8,0,49,Simran ,GenAI-Assisted
+11,Retailer,8,"[(7, 12)]",11,Retailer,7,10,13,0,13,0,62,Simran ,GenAI-Assisted
+12,Retailer,13,"[(15, 13)]",12,Retailer,15,11,9,0,9,0,71,Simran ,GenAI-Assisted
+,,,,,,,,,,,,,,
+,,,,Gen AI-Assisted 2,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,GenAI-Assisted
+1,Retailer,10,"[(10, 2)]",1,Retailer,10,12,3,0,3,0,3,Simran ,GenAI-Assisted
+2,Retailer,3,"[(1, 3)]",2,Retailer,1,9,4,0,4,0,7,Simran ,GenAI-Assisted
+3,Retailer,4,"[(3, 4)]",3,Retailer,3,13,0,8,0,16,23,Simran ,GenAI-Assisted
+4,Retailer,0,"[(3, 5)]",4,Retailer,3,13,0,10,0,20,43,Simran ,GenAI-Assisted
+5,Retailer,0,"[(3, 6)]",5,Retailer,3,11,0,8,0,16,59,Simran ,GenAI-Assisted
+6,Retailer,0,"[(3, 7)]",6,Retailer,3,12,0,9,0,18,77,Simran ,GenAI-Assisted
+7,Retailer,0,"[(19, 8)]",7,Retailer,19,14,0,11,0,22,99,Simran ,GenAI-Assisted
+8,Retailer,0,"[(4, 9)]",8,Retailer,4,12,7,0,7,0,106,Simran ,GenAI-Assisted
+9,Retailer,7,"[(10, 10)]",9,Retailer,10,11,0,0,0,0,106,Simran ,GenAI-Assisted
+10,Retailer,0,"[(20, 11)]",10,Retailer,20,13,0,3,0,6,112,Simran ,GenAI-Assisted
+11,Retailer,0,"[(10, 12)]",11,Retailer,10,9,11,0,11,0,123,Simran ,GenAI-Assisted
+12,Retailer,11,"[(16, 13)]",12,Retailer,16,11,10,0,10,0,133,Simran ,GenAI-Assisted
+,,,,,,,,,,,,,,
+,,,,Gen AI-Assisted 3,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,GenAI-Assisted
+1,Retailer,10,"[(15, 2)]",1,Retailer,15,12,3,0,3,0,3,Simran ,GenAI-Assisted
+2,Retailer,3,"[(8, 3)]",2,Retailer,8,13,5,0,5,0,8,Simran ,GenAI-Assisted
+3,Retailer,5,"[(2, 4)]",3,Retailer,2,12,1,0,1,0,9,Simran ,GenAI-Assisted
+4,Retailer,1,"[(4, 5)]",4,Retailer,4,10,0,7,0,14,23,Simran ,GenAI-Assisted
+5,Retailer,0,"[(1, 6)]",5,Retailer,1,13,0,9,0,18,41,Simran ,GenAI-Assisted
+6,Retailer,0,"[(12, 7)]",6,Retailer,12,13,0,12,0,24,65,Simran ,GenAI-Assisted
+7,Retailer,0,"[(14, 8)]",7,Retailer,14,14,0,2,0,4,69,Simran ,GenAI-Assisted
+8,Retailer,0,"[(19, 9)]",8,Retailer,19,10,4,0,4,0,73,Simran ,GenAI-Assisted
+9,Retailer,4,"[(10, 10)]",9,Retailer,10,13,10,0,10,0,83,Simran ,GenAI-Assisted
+10,Retailer,10,"[(10, 11)]",10,Retailer,10,14,6,0,6,0,89,Simran ,GenAI-Assisted
+11,Retailer,6,"[(3, 12)]",11,Retailer,3,9,7,0,7,0,96,Simran ,GenAI-Assisted
+12,Retailer,7,"[(11, 13)]",12,Retailer,11,14,0,4,0,8,104,Simran ,GenAI-Assisted
+,,,,,,,,,,,,,,
+,,,,Gen AI-Assisted 4,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,GenAI-Assisted
+1,Retailer,10,"[(5, 2)]",1,Retailer,5,13,2,0,2,0,2,Simran ,GenAI-Assisted
+2,Retailer,2,"[(3, 3)]",2,Retailer,3,9,0,2,0,4,6,Simran ,GenAI-Assisted
+3,Retailer,0,"[(2, 4)]",3,Retailer,2,13,0,10,0,20,26,Simran ,GenAI-Assisted
+4,Retailer,0,"[(2, 5)]",4,Retailer,2,9,0,7,0,14,40,Simran ,GenAI-Assisted
+5,Retailer,0,"[(1, 6)]",5,Retailer,1,13,0,11,0,22,62,Simran ,GenAI-Assisted
+6,Retailer,0,"[(13, 7)]",6,Retailer,13,10,0,9,0,18,80,Simran ,GenAI-Assisted
+7,Retailer,0,"[(3, 8)]",7,Retailer,3,12,1,0,1,0,81,Simran ,GenAI-Assisted
+8,Retailer,1,"[(13, 9)]",8,Retailer,13,9,0,5,0,10,91,Simran ,GenAI-Assisted
+9,Retailer,0,"[(8, 10)]",9,Retailer,8,12,1,0,1,0,92,Simran ,GenAI-Assisted
+10,Retailer,1,"[(8, 11)]",10,Retailer,8,11,0,2,0,4,96,Simran ,GenAI-Assisted
+11,Retailer,0,"[(8, 12)]",11,Retailer,8,14,0,6,0,12,108,Simran ,GenAI-Assisted
+12,Retailer,0,"[(15, 13)]",12,Retailer,15,11,0,3,0,6,114,Simran ,GenAI-Assisted
+,,,,,,,,,,,,,,
+,,,,Gen AI-Assisted 5,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,GenAI-Assisted
+1,Retailer,10,"[(10, 2)]",1,Retailer,10,14,1,0,1,0,1,Simran ,GenAI-Assisted
+2,Retailer,1,"[(5, 3)]",2,Retailer,5,13,0,2,0,4,5,Simran ,GenAI-Assisted
+3,Retailer,0,"[(10, 4)]",3,Retailer,10,10,0,5,0,10,15,Simran ,GenAI-Assisted
+4,Retailer,0,"[(24, 5)]",4,Retailer,24,13,0,3,0,6,21,Simran ,GenAI-Assisted
+5,Retailer,0,"[(7, 6)]",5,Retailer,7,12,12,0,12,0,33,Simran ,GenAI-Assisted
+6,Retailer,12,"[(9, 7)]",6,Retailer,9,13,6,0,6,0,39,Simran ,GenAI-Assisted
+7,Retailer,6,"[(19, 8)]",7,Retailer,19,10,5,0,5,0,44,Simran ,GenAI-Assisted
+8,Retailer,5,"[(10, 9)]",8,Retailer,10,13,11,0,11,0,55,Simran ,GenAI-Assisted
+9,Retailer,11,"[(16, 10)]",9,Retailer,16,14,7,0,7,0,62,Simran ,GenAI-Assisted
+10,Retailer,7,"[(10, 11)]",10,Retailer,10,11,12,0,12,0,74,Simran ,GenAI-Assisted
+11,Retailer,12,"[(9, 12)]",11,Retailer,9,14,8,0,8,0,82,Simran ,GenAI-Assisted
+12,Retailer,8,"[(7, 13)]",12,Retailer,7,9,8,0,8,0,90,Simran ,GenAI-Assisted
+,,,,,,,,,,,,,,
+,,,,Manual 1,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,Manual
+1,Retailer,10,"[(6, 2)]",1,Retailer,6,9,6,0,6,0,6,Simran ,Manual
+2,Retailer,6,"[(6, 3)]",2,Retailer,6,11,1,0,1,0,7,Simran ,Manual
+3,Retailer,1,"[(6, 4)]",3,Retailer,6,14,0,7,0,14,21,Simran ,Manual
+4,Retailer,0,"[(6, 5)]",4,Retailer,6,14,0,8,0,16,37,Simran ,Manual
+5,Retailer,0,"[(6, 6)]",5,Retailer,6,13,0,7,0,14,51,Simran ,Manual
+6,Retailer,0,"[(6, 7)]",6,Retailer,6,12,0,6,0,12,63,Simran ,Manual
+7,Retailer,0,"[(6, 8)]",7,Retailer,6,12,0,6,0,12,75,Simran ,Manual
+8,Retailer,0,"[(6, 9)]",8,Retailer,6,10,0,4,0,8,83,Simran ,Manual
+9,Retailer,0,"[(6, 10)]",9,Retailer,6,11,0,5,0,10,93,Simran ,Manual
+10,Retailer,0,"[(6, 11)]",10,Retailer,6,9,0,3,0,6,99,Simran ,Manual
+11,Retailer,0,"[(6, 12)]",11,Retailer,6,11,0,5,0,10,109,Simran ,Manual
+12,Retailer,0,"[(6, 13)]",12,Retailer,6,12,0,6,0,12,121,Simran ,Manual
+,,,,,,,,,,,,,,
+,,,,Manual 2,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,Manual
+1,Retailer,10,"[(11, 2)]",1,Retailer,11,12,3,0,3,0,3,Simran ,Manual
+2,Retailer,3,"[(11, 3)]",2,Retailer,11,12,2,0,2,0,5,Simran ,Manual
+3,Retailer,2,"[(11, 4)]",3,Retailer,11,11,2,0,2,0,7,Simran ,Manual
+4,Retailer,2,"[(11, 5)]",4,Retailer,11,9,4,0,4,0,11,Simran ,Manual
+5,Retailer,4,"[(11, 6)]",5,Retailer,11,11,4,0,4,0,15,Simran ,Manual
+6,Retailer,4,"[(11, 7)]",6,Retailer,11,14,1,0,1,0,16,Simran ,Manual
+7,Retailer,1,"[(11, 8)]",7,Retailer,11,14,0,2,0,4,20,Simran ,Manual
+8,Retailer,0,"[(11, 9)]",8,Retailer,11,14,0,3,0,6,26,Simran ,Manual
+9,Retailer,0,"[(11, 10)]",9,Retailer,11,14,0,3,0,6,32,Simran ,Manual
+10,Retailer,0,"[(11, 11)]",10,Retailer,11,10,1,0,1,0,33,Simran ,Manual
+11,Retailer,1,"[(11, 12)]",11,Retailer,11,9,3,0,3,0,36,Simran ,Manual
+12,Retailer,3,"[(11, 13)]",12,Retailer,11,14,0,0,0,0,36,Simran ,Manual
+,,,,,,,,,,,,,,
+,,,,Manual 3,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,Manual
+1,Retailer,10,"[(8, 2)]",1,Retailer,8,13,2,0,2,0,2,Simran ,Manual
+2,Retailer,2,"[(8, 3)]",2,Retailer,8,11,0,1,0,2,4,Simran ,Manual
+3,Retailer,0,"[(8, 4)]",3,Retailer,8,13,0,5,0,10,14,Simran ,Manual
+4,Retailer,0,"[(8, 5)]",4,Retailer,8,13,0,5,0,10,24,Simran ,Manual
+5,Retailer,0,"[(8, 6)]",5,Retailer,8,13,0,5,0,10,34,Simran ,Manual
+6,Retailer,0,"[(8, 7)]",6,Retailer,8,13,0,5,0,10,44,Simran ,Manual
+7,Retailer,0,"[(8, 8)]",7,Retailer,8,9,0,1,0,2,46,Simran ,Manual
+8,Retailer,0,"[(8, 9)]",8,Retailer,8,9,0,1,0,2,48,Simran ,Manual
+9,Retailer,0,"[(8, 10)]",9,Retailer,8,13,0,5,0,10,58,Simran ,Manual
+10,Retailer,0,"[(8, 11)]",10,Retailer,8,13,0,5,0,10,68,Simran ,Manual
+11,Retailer,0,"[(8, 12)]",11,Retailer,8,12,0,4,0,8,76,Simran ,Manual
+12,Retailer,0,"[(8, 13)]",12,Retailer,8,14,0,6,0,12,88,Simran ,Manual
+,,,,,,,,,,,,,,
+,,,,Manual 4,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,Manual
+1,Retailer,10,"[(9, 2)]",1,Retailer,9,11,4,0,4,0,4,Simran ,Manual
+2,Retailer,4,"[(9, 3)]",2,Retailer,9,10,3,0,3,0,7,Simran ,Manual
+3,Retailer,3,"[(9, 4)]",3,Retailer,9,9,3,0,3,0,10,Simran ,Manual
+4,Retailer,3,"[(9, 5)]",4,Retailer,9,14,0,2,0,4,14,Simran ,Manual
+5,Retailer,0,"[(9, 6)]",5,Retailer,9,14,0,5,0,10,24,Simran ,Manual
+6,Retailer,0,"[(9, 7)]",6,Retailer,9,11,0,2,0,4,28,Simran ,Manual
+7,Retailer,0,"[(9, 8)]",7,Retailer,9,9,0,0,0,0,28,Simran ,Manual
+8,Retailer,0,"[(9, 9)]",8,Retailer,9,12,0,3,0,6,34,Simran ,Manual
+9,Retailer,0,"[(9, 10)]",9,Retailer,9,11,0,2,0,4,38,Simran ,Manual
+10,Retailer,0,"[(9, 11)]",10,Retailer,9,9,0,0,0,0,38,Simran ,Manual
+11,Retailer,0,"[(9, 12)]",11,Retailer,9,11,0,2,0,4,42,Simran ,Manual
+12,Retailer,0,"[(9, 13)]",12,Retailer,9,14,0,5,0,10,52,Simran ,Manual
+,,,,,,,,,,,,,,
+,,,,Manual 5,,,,,,,,,,
+,,,,,,,,,,,,,,
+Week,Role,Inventory,Incoming Shipping,Week2,Role3,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran ,Manual
+1,Retailer,10,"[(13, 2)]",1,Retailer,13,12,3,0,3,0,3,Simran ,Manual
+2,Retailer,3,"[(13, 3)]",2,Retailer,13,10,6,0,6,0,9,Simran ,Manual
+3,Retailer,6,"[(13, 4)]",3,Retailer,13,13,6,0,6,0,15,Simran ,Manual
+4,Retailer,6,"[(13, 5)]",4,Retailer,13,10,9,0,9,0,24,Simran ,Manual
+5,Retailer,9,"[(13, 6)]",5,Retailer,13,12,10,0,10,0,34,Simran ,Manual
+6,Retailer,10,"[(13, 7)]",6,Retailer,13,10,13,0,13,0,47,Simran ,Manual
+7,Retailer,13,"[(13, 8)]",7,Retailer,13,11,15,0,15,0,62,Simran ,Manual
+8,Retailer,15,"[(13, 9)]",8,Retailer,13,14,14,0,14,0,76,Simran ,Manual
+9,Retailer,14,"[(13, 10)]",9,Retailer,13,13,14,0,14,0,90,Simran ,Manual
+10,Retailer,14,"[(13, 11)]",10,Retailer,13,13,14,0,14,0,104,Simran ,Manual
+11,Retailer,14,"[(13, 12)]",11,Retailer,13,12,15,0,15,0,119,Simran ,Manual
+12,Retailer,15,"[(13, 13)]",12,Retailer,13,10,18,0,18,0,137,Simran ,Manual
