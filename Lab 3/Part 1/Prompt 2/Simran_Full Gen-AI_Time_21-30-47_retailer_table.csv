@@ -1,0 +1,12 @@
+Week,Role,Inventory,Incoming Shipping,Week,Role,Order Quantity,Demand,Excess Inventory,Backorder,Holding Cost,Backorder Cost,Total Cost,username,approach
+0,Retailer,10,"[(5, 1)]",0,Retailer,,,,,,,0,Simran,Full Gen-AI
+1,Retailer,10,"[(20, 2)]",1,Retailer,20.0,9.0,6.0,0.0,6.0,0.0,6,Simran,Full Gen-AI
+2,Retailer,6,"[(25, 3)]",2,Retailer,25.0,9.0,17.0,0.0,17.0,0.0,23,Simran,Full Gen-AI
+3,Retailer,17,"[(15, 4)]",3,Retailer,15.0,10.0,32.0,0.0,32.0,0.0,55,Simran,Full Gen-AI
+4,Retailer,32,"[(20, 5)]",4,Retailer,20.0,11.0,36.0,0.0,36.0,0.0,91,Simran,Full Gen-AI
+5,Retailer,36,"[(20, 6)]",5,Retailer,20.0,11.0,45.0,0.0,45.0,0.0,136,Simran,Full Gen-AI
+6,Retailer,45,"[(20, 7)]",6,Retailer,20.0,13.0,52.0,0.0,52.0,0.0,188,Simran,Full Gen-AI
+7,Retailer,52,"[(20, 8)]",7,Retailer,20.0,10.0,62.0,0.0,62.0,0.0,250,Simran,Full Gen-AI
+8,Retailer,62,"[(20, 9)]",8,Retailer,20.0,13.0,69.0,0.0,69.0,0.0,319,Simran,Full Gen-AI
+9,Retailer,69,"[(20, 10)]",9,Retailer,20.0,12.0,77.0,0.0,77.0,0.0,396,Simran,Full Gen-AI
+10,Retailer,77,"[(20, 11)]",10,Retailer,20.0,10.0,87.0,0.0,87.0,0.0,483,Simran,Full Gen-AI
