@@ -18,19 +18,48 @@ Rather than modifying the underlying simulation logic, the lab emphasizes prompt
 ---
 
 ## Project Structure
-
 ```
 📦 Lab 3/
 │
-├── 📄 Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb
+├── 📂 Part 1/
+│   │
+│   ├── 📂 Prompt 1/
+│   │   # Baseline (Full GenAI) experiments
+│   │
+│   ├── 📂 Prompt 2/
+│   │   # Cost-Aware Conservative prompting experiments
+│   │
+│   ├── 📂 Prompt 3/
+│   │   # Risk-Constrained Data-Driven prompting experiments
+│   │
+│   ├── 📄 Simran_Sinha_BeerGame_Part1.xlsx
+│   │   # Experimental results for Part 1
+│   │
+│   └── 📄 Simran_Sinha_Part1.pdf
+│       # Report for Part 1 (Prompt Engineering Analysis)
 │
-├── 📄 Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb
+├── 📂 Part 2/
+│   │
+│   ├── 📂 GenAI-Assisted/
+│   │   # GenAI-assisted order planning runs
+│   │
+│   ├── 📂 Manual/
+│   │   # Manual order planning runs
+│   │
+│   ├── 📄 Simran_Sinha_Part2.pdf
+│   │   # Report for Part 2 (Manual vs GenAI comparison)
+│   │
+│   ├── 📄 Simran_BeerGame_GenAI.csv
+│   │   # Combined CSV results for all Part 2 runs
+│   │
+│   ├── 📄 Simran_BeerGame_GenAI.xlsx
+│   │   # Excel version of combined results
+│   │
+│   └── 📄 M4_Lab2_GenAI_BeerGame_V1.ipynb
+│       # Beer Game simulation notebook
 │
-├── 📄 Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb
-│
-├── 📄 Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb
-│
-└── 📘 README.md   # Project documentation
+└── 📘 README.md
+    # Project documentation
 ```
 ---
 
