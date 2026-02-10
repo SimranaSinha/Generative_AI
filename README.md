@@ -5,17 +5,12 @@
 # Assignment 1 - Prompt Roles & API Basics
 
 This assignment demonstrates the fundamentals of **role-based prompting** using a chat model and a basic **OpenAI API call**.
-
 The notebook focuses on understanding how **System, User, and Assistant** roles influence model behavior and response quality.
 
-
 ## Contents
-
 - `Assignment1_Simran Sinha.ipynb` — Jupyter notebook with prompt roles and API execution
 
-
 ## Key Concepts
-
 - Role-based prompting
 - Prompt structure control
 - Introductory OpenAI API usage
@@ -46,7 +41,6 @@ This lab demonstrates how different prompting strategies influence the reasoning
 The lab emphasizes practical experimentation with prompting techniques rather than application development.
 
 ## Contents
-
 - ` Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb ` — Jupyter notebook exploring multiple prompting strategies and response analysis
 
 ## Key Concepts
@@ -90,10 +84,29 @@ The notebook explores AI-assisted triage as a decision-support tool, emphasizing
 - ` Human-in-the-Loop Triage Integration.png `   
 
 ### Key Concepts
-AI-assisted medical triage
-Prompt engineering for clinical reasoning
-Model comparison and response consistency
-Human-in-the-loop decision support
+- AI-assisted medical triage
+- Prompt engineering for clinical reasoning
+- Model comparison and response consistency
+- Human-in-the-loop decision support
+
+---
+
+##  Lab 4: LangChain Templates & Memory
+
+This lab explores how different LangChain memory types influence conversational context retention, reasoning behavior, and response quality in AI systems. 
+
+The focus is on understanding how memory design impacts sequential decision-making rather than building a full application.
+
+### Contents
+- ` Simran Sinha_LangChainMemory.ipynb ` - Jupyter notebook implementing prompt templates and multiple LangChain memory modules
+- `  beer_game_memory_comparison.xlsx` - Memory behavior comparison using a supply chain (Beer Game) example
+- ` stock_market_memory_comparison.xlsx` - Memory behavior comparison using stock market trend prediction
+
+### Key Concepts
+- Prompt templates and structured prompting
+- LangChain memory modules
+- Short-term vs long-term context retention
+- Memory impact on AI reasoning and predictions
 
 ---
 
