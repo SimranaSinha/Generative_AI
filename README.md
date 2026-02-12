@@ -99,7 +99,7 @@ The focus is on understanding how memory design impacts sequential decision-maki
 
 ### Contents
 - ` Simran Sinha_LangChainMemory.ipynb ` - Jupyter notebook implementing prompt templates and multiple LangChain memory modules
-- `  beer_game_memory_comparison.xlsx` - Memory behavior comparison using a supply chain (Beer Game) example
+- ` beer_game_memory_comparison.xlsx` - Memory behavior comparison using a supply chain (Beer Game) example
 - ` stock_market_memory_comparison.xlsx` - Memory behavior comparison using stock market trend prediction
 
 ### Key Concepts
