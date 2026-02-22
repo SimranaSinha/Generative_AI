@@ -19,7 +19,7 @@ The assignment focuses on **prompt design**, **use case diversity**, and **respo
 
 ## Project Structure
 
-```text
+```
 📦 Lab 1/
 │
 ├── 📄 ExcelGPT_v3_Simran Sinha.xlsm                
