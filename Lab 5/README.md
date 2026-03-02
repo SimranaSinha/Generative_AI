@@ -86,14 +86,14 @@ This marked the transition from static pipelines to autonomous reasoning systems
 
 ## Observations on Agent Performance
 
-### ✅ What Worked Well
+### What Worked Well
 
 * Well-defined prompts improved tool selection accuracy.
 * Memory enabled smooth conversational flow.
 * Agents handled multi-step reasoning better than single-step chains.
 * Clear tool descriptions improved decision-making quality.
 
-### ⚠️ What Did Not Work Perfectly
+### What Did Not Work Perfectly
 
 * Ambiguous tool descriptions caused inconsistent behavior.
 * Agents sometimes over-explained simple calculations.
