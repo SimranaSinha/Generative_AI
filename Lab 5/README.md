@@ -20,6 +20,7 @@ I implemented controlled pipelines as well as autonomous agent behavior and anal
 📦 Lab 5/
 │
 ├── 📄 M6_Lab5_AI_Agents_Simran Sinha.ipynb
+│
 ├── 📄 AI_Agents_Simran Sinha_Report.pdf
 │
 └── 📘 README.md   # Project documentation
