@@ -19,7 +19,9 @@ Specifically, this lab explored:
 📦 Lab 4/
 │
 ├── 📄 Simran Sinha_LangChainMemory.ipynb
+│
 ├── 📊 beer_game_memory_comparison.xlsx
+│
 ├── 📊 stock_market_memory_comparison.xlsx
 │
 └── 📘 README.md   # Project documentation
