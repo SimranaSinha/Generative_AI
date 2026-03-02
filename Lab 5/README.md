@@ -14,6 +14,17 @@ The lab has **3 sections**:
 I implemented controlled pipelines as well as autonomous agent behavior and analyzed how decision-making differs between static chains and dynamic agents.
 
 ---
+## Project Structure
+
+```
+📦 Lab 5/
+│
+├── 📄 M6_Lab5_AI_Agents_Simran Sinha.ipynb
+├── 📄 AI_Agents_Simran Sinha_Report.pdf
+│
+└── 📘 README.md   # Project documentation
+```
+---
 
 ## Implementation Details
 
