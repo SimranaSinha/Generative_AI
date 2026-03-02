@@ -153,15 +153,6 @@ The objective was to move beyond traditional Excel formulas and enable descripti
 * Limitations of AI-based spreadsheet integration
 
 ---
-Perfect — here’s a **main-repo style README section just for the Hackathon**, matching the structure in your screenshot:
-
----
-
-# Generative_AI
-
-This repository contains projects and coursework focused on Generative AI, LangChain, prompt engineering, agents, and AI-powered applications.
-
----
 
 ## Hackathon – World Cup 2026 Squad Builder
 
