@@ -13,6 +13,19 @@ Specifically, this lab explored:
 
 ---
 
+## Project Structure
+
+```
+📦 Lab 4/
+│
+├── 📄 Simran Sinha_LangChainMemory.ipynb
+├── 📊 beer_game_memory_comparison.xlsx
+├── 📊 stock_market_memory_comparison.xlsx
+│
+└── 📘 README.md   # Project documentation
+```
+
+---
 ## Prompt Templates – Key Observations
 
 Prompt templates were used to standardize model input while allowing dynamic variable injection at runtime using placeholders such as `{topic}`, `{context}`, and `{stock history}` 
