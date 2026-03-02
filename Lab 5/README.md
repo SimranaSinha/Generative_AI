@@ -17,7 +17,7 @@ I implemented controlled pipelines as well as autonomous agent behavior and anal
 
 ## Implementation Details
 
-### 1️⃣ Single Prompt Chain
+### Single Prompt Chain
 
 The first task involved creating an LLM pipeline using:
 
@@ -38,7 +38,7 @@ Decoupling prompts from models increases modularity and reuse.
 
 ---
 
-### 2️⃣ Multi-Step Sequential Chain (Customer Review Pipeline)
+### Multi-Step Sequential Chain (Customer Review Pipeline)
 
 This section divided the problem into two structured steps:
 
@@ -62,7 +62,7 @@ Segmenting reasoning reduces cognitive burden on the model.
 
 ---
 
-### 3️⃣ Agent with Tools (Unit Conversion Agent)
+### Agent with Tools (Unit Conversion Agent)
 
 This final section introduced a dynamic AI Agent using:
 
