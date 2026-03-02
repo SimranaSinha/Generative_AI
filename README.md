@@ -109,6 +109,31 @@ The focus is on understanding how memory design impacts sequential decision-maki
 - Memory impact on AI reasoning and predictions
 
 ---
+Here is a **short, clean README** for **Lab 5**, matching the style of your Lab 4 format:
+
+---
+
+## Lab 5: Building AI Agents with LangChain
+
+This lab explores how structured chains and autonomous agents can be built using LangChain to enable multi-step reasoning, tool usage, and dynamic decision-making.
+
+The focus is on understanding the difference between deterministic workflows (chains) and flexible reasoning systems (agents).
+
+### Contents
+
+* `M6_Lab5_AI_Agents_Simran Sinha.ipynb` – Jupyter notebook implementing prompt chains, sequential chains, and an AI agent with tools
+* `AI_Agents_Simran Sinha_Report.pdf` – Detailed analysis of agent behavior and comparison between chains and agents
+
+### Key Concepts
+
+* Single prompt chains
+* Multi-step sequential chains
+* Agent initialization and tool integration
+* Conversation memory in agents
+* Chains vs Agents comparison
+* Structured orchestration of LLM workflows
+
+---
 
 ## Notes
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
