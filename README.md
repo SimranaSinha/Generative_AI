@@ -17,7 +17,7 @@ The notebook focuses on understanding how **System, User, and Assistant** roles 
 
 ---
 
-# Lab 1 - ExcelGPT & AI_Reply Function
+## Lab 1 - ExcelGPT & AI_Reply Function
 
 This assignment demonstrates the integration of generative AI into Microsoft Excel using a custom AI_Reply function powered by the OpenAI API. The workbook focuses on applying prompt-driven AI to common business and analytics tasks directly within a spreadsheet environment.
 
@@ -34,7 +34,7 @@ The assignment highlights how structured prompts and inputs can be used to autom
 
 ---
 
-# Lab 2 - Prompting Strategies
+## Lab 2 - Prompting Strategies
 
 This lab demonstrates how different prompting strategies influence the reasoning quality, consistency, and accuracy of large language model outputs. The notebook focuses on applying structured prompts to the same problem and analyzing how model behavior changes based on prompt design and temperature settings.
 
@@ -91,7 +91,7 @@ The notebook explores AI-assisted triage as a decision-support tool, emphasizing
 
 ---
 
-##  Lab 4: LangChain Templates & Memory
+## Lab 4: LangChain Templates & Memory
 
 This lab explores how different LangChain memory types influence conversational context retention, reasoning behavior, and response quality in AI systems. 
 
