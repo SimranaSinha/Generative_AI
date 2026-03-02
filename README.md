@@ -2,7 +2,7 @@
 
 ---
 
-# Assignment 1 - Prompt Roles & API Basics
+## Assignment 1 - Prompt Roles & API Basics
 
 This assignment demonstrates the fundamentals of **role-based prompting** using a chat model and a basic **OpenAI API call**.
 The notebook focuses on understanding how **System, User, and Assistant** roles influence model behavior and response quality.
