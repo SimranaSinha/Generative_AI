@@ -153,6 +153,39 @@ The objective was to move beyond traditional Excel formulas and enable descripti
 * Limitations of AI-based spreadsheet integration
 
 ---
+Perfect — here’s a **main-repo style README section just for the Hackathon**, matching the structure in your screenshot:
+
+---
+
+# Generative_AI
+
+This repository contains projects and coursework focused on Generative AI, LangChain, prompt engineering, agents, and AI-powered applications.
+
+---
+
+## Hackathon – World Cup 2026 Squad Builder
+
+A multi-step LangChain reasoning pipeline that builds a **23-player FIFA World Cup squad** from real football statistics using semantic search, constraint enforcement, and LLM-backed justifications.
+
+Built for the **World Cup GenAI Hackathon**, this project demonstrates structured orchestration of retrieval, reasoning, tools, memory, and explainability.
+
+### Contents
+
+* `Hackathon/app.py` — Streamlit chat application
+* `Hackathon/squad_builder.ipynb` — End-to-end notebook pipeline
+* `Hackathon/squad_builder.html` — Exported notebook version
+* `Hackathon/requirements.txt` — Project dependencies
+
+### Key Concepts
+
+* Multi-step reasoning pipelines
+* LangChain agents and tool orchestration
+* Retrieval-Augmented Generation (RAG) with FAISS
+* Constraint-based decision systems (World Cup roster rules)
+* LLM-generated tactical justifications
+* Interactive analytics dashboard with Plotly
+
+---
 
 ## Notes
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
