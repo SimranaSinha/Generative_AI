@@ -153,5 +153,8 @@ Intelligent AI systems are not built through large models alone. They require or
 
 The transition from single prompts to structured workflows represents the shift from simply using a model to designing intelligent AI systems.
 
+---
 
+## Notes
 
+This lab is intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
