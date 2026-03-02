@@ -132,5 +132,27 @@ The focus is on understanding the difference between deterministic workflows (ch
 
 ---
 
+## Assignment 2: Data Analysis with AI_Analyse Function
+
+This assignment focuses on extending Excel with an AI-powered function, **AI_Analyse**, to perform contextual, multi-dimensional data analysis directly from spreadsheet ranges.
+
+The objective was to move beyond traditional Excel formulas and enable descriptive, diagnostic, and prescriptive insights using structured prompts.
+
+### Contents
+
+* `Simran Sinha_ExcelGPT.xlsm` – Excel macro-enabled file implementing the `AI_Analyse` VBA function
+* `Simran Sinha_ExcelGPT_Report.pdf` – Detailed report explaining implementation, experiments, and findings
+
+### Key Concepts
+
+* VBA integration with external AI API
+* Converting Excel ranges into structured text for AI processing
+* Prompt refinement for improved analytical depth
+* Descriptive vs Diagnostic vs Prescriptive analysis
+* AI-assisted interpretation of financial, marketing, and operations data
+* Limitations of AI-based spreadsheet integration
+
+---
+
 ## Notes
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
