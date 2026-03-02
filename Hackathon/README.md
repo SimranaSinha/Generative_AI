@@ -13,20 +13,16 @@ This project was built for the **World Cup GenAI Hackathon**. It takes a natural
 ## Project Structure
 
 ```
-.
-├── squad_builder.ipynb           # Full 6-tool LangChain pipeline (notebook)
-├── app.py                        # Streamlit chat UI (standalone app)
-├── squad_builder.html            # Exported notebook HTML
-├── requirements.txt              # Python dependencies
-├── .env                          # API keys (not committed)
-├── datasets/
-│   └── players_data-2024_2025.csv  # FBRef 2024-25 player statistics
-├── faiss_index/
-│   ├── index.faiss               # FAISS vector index (auto-generated)
-│   └── index.pkl                 # FAISS metadata store (auto-generated)
-├── cache/                        # Disk-cached HTTP responses + user preferences
-└── problemstatement/
-    └── World Cup GenAI Hackathon.pdf
+📦 Hackathon/
+│
+├── 📄 app.py                    # Streamlit application entry point
+├── 📄 squad_builder.ipynb       # Jupyter notebook version of the pipeline
+├── 🌐 squad_builder.html        # Exported notebook / web version
+├── 📄 requirements.txt          # Python dependencies
+├── 📄 gitignore.txt             # Git ignore configuration
+│
+└── 📘 README.md                 # Project documentation
+
 ```
 
 ---
