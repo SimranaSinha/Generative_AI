@@ -109,9 +109,6 @@ The focus is on understanding how memory design impacts sequential decision-maki
 - Memory impact on AI reasoning and predictions
 
 ---
-Here is a **short, clean README** for **Lab 5**, matching the style of your Lab 4 format:
-
----
 
 ## Lab 5: Building AI Agents with LangChain
 
