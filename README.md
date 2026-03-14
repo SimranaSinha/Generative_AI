@@ -178,5 +178,26 @@ Built for the **World Cup GenAI Hackathon**, this project demonstrates structure
 
 ---
 
+## Lab 6: RAG Comparison – FAISS + OpenAI vs ChromaDB + HuggingFace
+
+A Retrieval-Augmented Generation (RAG) comparison project that evaluates two pipelines using different vector databases and embedding models. The experiment measures response accuracy, processing speed, and setup complexity using a renewable energy dataset.
+
+Built as part of a Generative AI lab to demonstrate how different vector databases and embedding models impact RAG performance.
+
+### Contents
+* `RAG_Simran_Sinha.ipynb` — End-to-end RAG implementation notebook  
+* `Accuracy.png` — Accuracy comparison chart  
+* `Time.png` — Response time comparison chart  
+* `Simran Sinha_RAG Report.pdf` — 1-page experiment report  
+
+### Key Concepts
+Retrieval-Augmented Generation (RAG) pipelines  
+Vector databases (FAISS vs ChromaDB)  
+Embedding models (OpenAI vs HuggingFace)  
+Semantic search and document chunking  
+Performance comparison of RAG systems  
+Response accuracy and latency evaluation
+
+---
 ## Notes
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
