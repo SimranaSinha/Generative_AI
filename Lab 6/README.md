@@ -163,12 +163,11 @@ Cons
 
 ## Conclusion
 
-Both RAG pipelines successfully retrieved relevant information and generated accurate responses.
+Both RAG pipelines successfully retrieved relevant information and generated accurate responses. FAISS + OpenAI offers simpler implementation and high-quality embeddings. ChromaDB + HuggingFace provides faster response time and uses fully open-source embeddings. The best choice depends on project requirements such as cost, speed, and system complexity.
 
-FAISS + OpenAI offers simpler implementation and high-quality embeddings.
+---
 
-ChromaDB + HuggingFace provides faster response time and uses fully open-source embeddings.
+## Notes
 
-The best choice depends on project requirements such as cost, speed, and system complexity.
-
+This lab is intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
 
