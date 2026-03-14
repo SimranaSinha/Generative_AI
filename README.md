@@ -8,12 +8,12 @@ This assignment demonstrates the fundamentals of **role-based prompting** using 
 The notebook focuses on understanding how **System, User, and Assistant** roles influence model behavior and response quality.
 
 ## Contents
-- `Assignment1_Simran Sinha.ipynb` — Jupyter notebook with prompt roles and API execution
+* `Assignment1_Simran Sinha.ipynb` — Jupyter notebook with prompt roles and API execution
 
 ## Key Concepts
-- Role-based prompting
-- Prompt structure control
-- Introductory OpenAI API usage
+* Role-based prompting
+* Prompt structure control
+* Introductory OpenAI API usage
 
 ---
 
@@ -24,13 +24,13 @@ This assignment demonstrates the integration of generative AI into Microsoft Exc
 The assignment highlights how structured prompts and inputs can be used to automate formatting, analysis, content generation, data cleaning, translation, summarization, and classification workflows while following responsible API usage practices.
 
 ## Contents
-- ` ExcelGPT_v3_Simran Sinha.xlsm ` — Excel workbook implementing the AI_Reply function with multiple real-world use cases
+* ` ExcelGPT_v3_Simran Sinha.xlsm ` — Excel workbook implementing the AI_Reply function with multiple real-world use cases
 
 ## Key Concepts
-- Generative AI in Excel
-- Prompt design for business workflows
-- AI-assisted data analysis and transformation
-- Secure API handling and best practices
+* Generative AI in Excel
+* Prompt design for business workflows
+* AI-assisted data analysis and transformation
+* Secure API handling and best practices
 
 ---
 
@@ -41,13 +41,13 @@ This lab demonstrates how different prompting strategies influence the reasoning
 The lab emphasizes practical experimentation with prompting techniques rather than application development.
 
 ## Contents
-- ` Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb ` — Jupyter notebook exploring multiple prompting strategies and response analysis
+* ` Lab_2_Module_3_Prompting_Strategies_in_Practice_Simran.ipynb ` — Jupyter notebook exploring multiple prompting strategies and response analysis
 
 ## Key Concepts
-- Prompt engineering techniques
-- Zero-shot and few-shot prompting
-- Chain-of-thought reasoning
-- Self-consistency and temperature effects
+* Prompt engineering techniques
+* Zero-shot and few-shot prompting
+* Chain-of-thought reasoning
+* Self-consistency and temperature effects
 
 ---
 
@@ -58,17 +58,17 @@ This lab explores the use of Generative AI as a decision-support tool in the Bee
 Rather than modifying the simulation logic, the lab emphasizes prompt experimentation, comparative analysis, and evaluation of GenAI-assisted versus manual decision-making.
 
 ### Contents
-- ` M4_Lab2_GenAI_BeerGame_V1.ipynb ` — Jupyter notebook exploring GenAI-assisted decision making and prompt-based order planning in the Beer Game
-- Part 1 — Prompt engineering experiments using three strategies (Baseline, Cost-Aware Conservative, Risk-Constrained Data-Driven)
-- Part 2 — Manual vs. GenAI-assisted order planning comparison
-- Reports — PDF summaries of findings for Part 1 and Part 2
-- CSV / Excel files — Combined experimental results
+* ` M4_Lab2_GenAI_BeerGame_V1.ipynb ` — Jupyter notebook exploring GenAI-assisted decision making and prompt-based order planning in the Beer Game
+* Part 1 — Prompt engineering experiments using three strategies (Baseline, Cost-Aware Conservative, Risk-Constrained Data-Driven)
+* Part 2 — Manual vs. GenAI-assisted order planning comparison
+* Reports — PDF summaries of findings for Part 1 and Part 2
+* CSV / Excel files — Combined experimental results
 
 ### Key Concepts
-- Prompt engineering for operational decision-making
-- GenAI as a decision-support system
-- Cost and variability analysis in supply chains
-- Human–AI collaboration in multi-period environments
+* Prompt engineering for operational decision-making
+* GenAI as a decision-support system
+* Cost and variability analysis in supply chains
+* Human–AI collaboration in multi-period environments
 
 ---
 
@@ -79,15 +79,15 @@ This discussion examines the use of Generative AI models for medical triage supp
 The notebook explores AI-assisted triage as a decision-support tool, emphasizing human-in-the-loop workflows rather than autonomous clinical decisions.
 
 ### Contents
-- ` Discussion_1_GenAI_Triage.ipynb` — Jupyter notebook analyzing GenAI-assisted triage, prompt variations, and model behavior
-- ` Gemini and OpenAI.png `
-- ` Human-in-the-Loop Triage Integration.png `   
+* ` Discussion_1_GenAI_Triage.ipynb` — Jupyter notebook analyzing GenAI-assisted triage, prompt variations, and model behavior
+* ` Gemini and OpenAI.png `
+* ` Human-in-the-Loop Triage Integration.png `   
 
 ### Key Concepts
-- AI-assisted medical triage
-- Prompt engineering for clinical reasoning
-- Model comparison and response consistency
-- Human-in-the-loop decision support
+* AI-assisted medical triage
+* Prompt engineering for clinical reasoning
+* Model comparison and response consistency
+* Human-in-the-loop decision support
 
 ---
 
@@ -98,15 +98,15 @@ This lab explores how different LangChain memory types influence conversational 
 The focus is on understanding how memory design impacts sequential decision-making rather than building a full application.
 
 ### Contents
-- ` Simran Sinha_LangChainMemory.ipynb ` - Jupyter notebook implementing prompt templates and multiple LangChain memory modules
-- ` beer_game_memory_comparison.xlsx` - Memory behavior comparison using a supply chain (Beer Game) example
-- ` stock_market_memory_comparison.xlsx` - Memory behavior comparison using stock market trend prediction
+* ` Simran Sinha_LangChainMemory.ipynb ` - Jupyter notebook implementing prompt templates and multiple LangChain memory modules
+* ` beer_game_memory_comparison.xlsx` - Memory behavior comparison using a supply chain (Beer Game) example
+* ` stock_market_memory_comparison.xlsx` - Memory behavior comparison using stock market trend prediction
 
 ### Key Concepts
-- Prompt templates and structured prompting
-- LangChain memory modules
-- Short-term vs long-term context retention
-- Memory impact on AI reasoning and predictions
+* Prompt templates and structured prompting
+* LangChain memory modules
+* Short-term vs long-term context retention
+* Memory impact on AI reasoning and predictions
 
 ---
 
@@ -191,12 +191,12 @@ Built as part of a Generative AI lab to demonstrate how different vector databas
 * `Simran Sinha_RAG Report.pdf` — 1-page experiment report  
 
 ### Key Concepts
-Retrieval-Augmented Generation (RAG) pipelines  
-Vector databases (FAISS vs ChromaDB)  
-Embedding models (OpenAI vs HuggingFace)  
-Semantic search and document chunking  
-Performance comparison of RAG systems  
-Response accuracy and latency evaluation
+* Retrieval-Augmented Generation (RAG) pipelines  
+* Vector databases (FAISS vs ChromaDB)  
+* Embedding models (OpenAI vs HuggingFace)  
+* Semantic search and document chunking  
+* Performance comparison of RAG systems  
+* Response accuracy and latency evaluation
 
 ---
 ## Notes
