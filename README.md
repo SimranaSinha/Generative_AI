@@ -185,12 +185,14 @@ A Retrieval-Augmented Generation (RAG) comparison project that evaluates two pip
 Built as part of a Generative AI lab to demonstrate how different vector databases and embedding models impact RAG performance.
 
 ### Contents
+
 * `RAG_Simran_Sinha.ipynb` — End-to-end RAG implementation notebook  
 * `Accuracy.png` — Accuracy comparison chart  
 * `Time.png` — Response time comparison chart  
 * `Simran Sinha_RAG Report.pdf` — 1-page experiment report  
 
 ### Key Concepts
+
 * Retrieval-Augmented Generation (RAG) pipelines  
 * Vector databases (FAISS vs ChromaDB)  
 * Embedding models (OpenAI vs HuggingFace)  
@@ -200,4 +202,5 @@ Built as part of a Generative AI lab to demonstrate how different vector databas
 
 ---
 ## Notes
+
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
