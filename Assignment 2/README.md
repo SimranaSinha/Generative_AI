@@ -1,4 +1,4 @@
-# Assignment 2 – Data Analysis with AI_Analyse Function
+# Assignment 2 : Data Analysis with AI_Analyse Function
 
 ## Overview
 
