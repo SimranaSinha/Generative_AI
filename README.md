@@ -2,7 +2,7 @@
 
 ---
 
-## Assignment 1 - Prompt Roles & API Basics
+## Assignment 1 : Prompt Roles & API Basics
 
 This assignment demonstrates the fundamentals of **role-based prompting** using a chat model and a basic **OpenAI API call**.
 The notebook focuses on understanding how **System, User, and Assistant** roles influence model behavior and response quality.
@@ -17,7 +17,7 @@ The notebook focuses on understanding how **System, User, and Assistant** roles 
 
 ---
 
-## Lab 1 - ExcelGPT & AI_Reply Function
+## Lab 1 : ExcelGPT & AI_Reply Function
 
 This assignment demonstrates the integration of generative AI into Microsoft Excel using a custom AI_Reply function powered by the OpenAI API. The workbook focuses on applying prompt-driven AI to common business and analytics tasks directly within a spreadsheet environment.
 
@@ -34,7 +34,7 @@ The assignment highlights how structured prompts and inputs can be used to autom
 
 ---
 
-## Lab 2 - Prompting Strategies
+## Lab 2 : Prompting Strategies
 
 This lab demonstrates how different prompting strategies influence the reasoning quality, consistency, and accuracy of large language model outputs. The notebook focuses on applying structured prompts to the same problem and analyzing how model behavior changes based on prompt design and temperature settings.
 
@@ -51,7 +51,7 @@ The lab emphasizes practical experimentation with prompting techniques rather th
 
 ---
 
-## Lab 3 – GenAI-Assisted Decision Making in the Beer Game
+## Lab 3 : GenAI-Assisted Decision Making in the Beer Game
 
 This lab explores the use of Generative AI as a decision-support tool in the Beer Game supply chain simulation. The focus is on understanding how prompt design and human–AI collaboration influence ordering decisions, cost behavior, and stability over multiple simulation runs.
 
@@ -72,7 +72,7 @@ Rather than modifying the simulation logic, the lab emphasizes prompt experiment
 
 ---
 
-## Discussion 1 – GenAI_Triage
+## Discussion 1 : GenAI_Triage
 
 This discussion examines the use of Generative AI models for medical triage support, focusing on how prompt design and model selection influence reasoning quality, consistency, and safety in healthcare decision-making.
 
@@ -154,7 +154,7 @@ The objective was to move beyond traditional Excel formulas and enable descripti
 
 ---
 
-## Hackathon – World Cup 2026 Squad Builder
+## Hackathon : World Cup 2026 Squad Builder
 
 A multi-step LangChain reasoning pipeline that builds a **23-player FIFA World Cup squad** from real football statistics using semantic search, constraint enforcement, and LLM-backed justifications.
 
