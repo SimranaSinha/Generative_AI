@@ -1,4 +1,4 @@
-# Assignment 1 — Generative AI
+# Assignment 1: Prompt Roles & API Basics
 
 This repository contains **Assignment 1** for a Generative AI course.  
 The assignment demonstrates the fundamentals of **role-based prompting** and making a basic **OpenAI API call** using a chat model.
