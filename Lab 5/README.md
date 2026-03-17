@@ -1,4 +1,4 @@
-# Lab 5 – Building AI Agents with LangChain
+# Lab 5 : Building AI Agents with LangChain
 
 ## Overview
 
