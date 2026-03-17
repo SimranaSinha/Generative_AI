@@ -1,4 +1,4 @@
-# Lab 4 – LangChain Templates and Memory
+# Lab 4 : LangChain Templates and Memory
 
 ## Objective
 
