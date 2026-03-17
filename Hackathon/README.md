@@ -1,4 +1,4 @@
-# World Cup 2026 — Squad Builder
+# Hackathon : World Cup 2026 Squad Builder
 
 A fully grounded, multi-step LangChain reasoning pipeline that builds a 23-player FIFA World Cup squad from real football statistics. Available as both an interactive Jupyter Notebook and a Streamlit chat application.
 
