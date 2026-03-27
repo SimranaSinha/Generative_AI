@@ -2,8 +2,8 @@
 
 ## Overview
 
-This lab demonstrates how **LangGraph** can be used to model workflows using a graph-based execution system.
-The project simulates an **airport security screening workflow**, where passengers move through different screening paths before reaching the departure gates.
+This lab demonstrates how LangGraph can be used to model workflows using a graph-based execution system.
+The project simulates an airport security screening workflow, where passengers move through different screening paths before reaching the departure gates.
 
 The lab focuses on workflow modeling, conditional routing, state transitions, and graph execution using LangGraph.
 
