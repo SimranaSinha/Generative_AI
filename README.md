@@ -201,6 +201,24 @@ Built as part of a Generative AI lab to demonstrate how different vector databas
 * Response accuracy and latency evaluation
 
 ---
+
+## Lab 7 – Introduction to LangGraph
+
+This lab demonstrates how LangGraph can be used to model workflows using a graph-based execution system. The project simulates an airport security screening workflow where passengers move through different screening paths before reaching the departure gates.
+
+### Contents
+* `LangGraph_Intro.ipynb` — Notebook implementing the LangGraph workflow
+* `Introduction to LangGraph.pdf` — Lab report
+* `Workflow.png` — Workflow diagram
+* `README.md` — Project documentation
+
+### Key Concepts
+* LangGraph workflow modeling
+* Nodes and edges
+* Conditional routing
+* State transitions
+
+---
 ## Notes
 
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
