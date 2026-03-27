@@ -10,8 +10,8 @@ The lab focuses on workflow modeling, conditional routing, state transitions, an
 ---
 
 ## Workflow Diagram
+
 ```
-## Workflow Graph
 ![Workflow](Workflow.png)
 ```
 Passengers can follow different paths:
