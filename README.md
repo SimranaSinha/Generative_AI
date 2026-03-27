@@ -202,7 +202,7 @@ Built as part of a Generative AI lab to demonstrate how different vector databas
 
 ---
 
-## Lab 7 – Introduction to LangGraph
+## Lab 7 : Introduction to LangGraph
 
 This lab demonstrates how LangGraph can be used to model workflows using a graph-based execution system. The project simulates an airport security screening workflow where passengers move through different screening paths before reaching the departure gates.
 
