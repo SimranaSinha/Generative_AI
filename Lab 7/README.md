@@ -11,9 +11,9 @@ The lab focuses on workflow modeling, conditional routing, state transitions, an
 
 ## Workflow Diagram
 
-```
+
 ![Workflow](Workflow.png)
-```
+
 Passengers can follow different paths:
 
 * TSA PreCheck → Gates
