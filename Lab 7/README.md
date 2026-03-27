@@ -112,7 +112,7 @@ This lab covers the following concepts:
 This lab demonstrates how LangGraph can be used to model workflows with conditional routing and probabilistic decision-making.
 The airport security simulation shows how graph-based execution can represent real-world workflow systems and decision processes.
 
----
+
 
 
 
