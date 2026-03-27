@@ -55,9 +55,9 @@ Both systems successfully retrieved relevant context and produced correct answer
 │
 ├── 🎞️ Time.png
 │
-├── 📘 README.md
+├── 📄 Simran Sinha_RAG Report.pdf 
 │
-└── 📄 Simran Sinha_RAG Report.pdf
+└── 📘 README.md
 ```
 
 ---
