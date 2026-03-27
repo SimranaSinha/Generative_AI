@@ -217,6 +217,7 @@ This lab demonstrates how LangGraph can be used to model workflows using a graph
 * Nodes and edges
 * Conditional routing
 * State transitions
+* Graph execution
 
 ---
 ## Notes
