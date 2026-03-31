@@ -220,3 +220,8 @@ This lab demonstrates how LangGraph can be used to model workflows using a graph
 * Graph execution
 
 ---
+
+## Notes
+
+All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
+
