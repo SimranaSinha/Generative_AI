@@ -221,6 +221,25 @@ This lab demonstrates how LangGraph can be used to model workflows using a graph
 
 ---
 
+## Lab 8 – Multi-Agent Investment Analysis with CrewAI
+
+This lab implements a multi-agent investment analysis system using CrewAI, where multiple AI agents collaborate to analyze stocks, assess risks, and generate structured investment recommendations.
+
+### Contents
+* `Multi_Agent_Investment_Analysis_Simran.ipynb` — End-to-end multi-agent implementation
+* `Simran_Sinha_CrewAI Report.pdf` — 1–2 page report with observations and insights
+* `CompletionCertificate .png` — Certificate
+* `README.md` — Project documentation
+
+### Key Concepts
+* Multi-agent systems with CrewAI
+* Agent delegation and sequential workflows
+* Retrieval-Augmented Generation (RAG)
+* Real-time financial data integration (yfinance + scraping)
+* Risk-aware investment strategy design
+* LLM-based decision making (BUY / HOLD / SELL)
+
+---
 ## Notes
 
 All the labs are intended for academic learning and experimentation purposes. Model outputs should not be assumed to be correct without verification, especially in high-stakes or real-world applications.
