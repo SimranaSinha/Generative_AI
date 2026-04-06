@@ -116,6 +116,8 @@ These observations are consistent with your analysis where different agents cont
 │
 ├── 📄 Simran_Sinha_CrewAI Report.pdf                 # 1–2 page report
 │
+├── 🎞️ CompletionCertifcate.png                       #Certificate
+│
 └── 📘 README.md                                      # Project documentation
 ```
 
