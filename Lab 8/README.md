@@ -148,18 +148,11 @@ As highlighted in your report, poorly defined agent roles can lead to overlappin
 
 ## 📸 Completion Certificate
 
-Include your certificate screenshot at the end of the report as required.
+![Completion Certificate](https://raw.githubusercontent.com/SimranaSinha/Generative_AI/main/Lab%208/CompletionCertificate%20.png)
 
 ---
 
 ## 🚀 Conclusion
 
 This lab demonstrates how **multi-agent AI systems can handle complex decision-making tasks** like investment analysis. By combining structured workflows, real-time data, and risk-aware strategies, the system produces more reliable and practical recommendations.
-
----
-
-If you want, I can also:
-
-* make a **short version (like 5–6 lines for quick repo view)**
-* or make it **more recruiter-facing for GitHub/portfolio**
 
